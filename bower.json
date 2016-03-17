@@ -1,5 +1,5 @@
 {
-  "name": "workpoint\angular-hotkeys",
+  "name": "workpoint-angular-hotkeys",
   "main": [
     "build/hotkeys.js",
     "build/hotkeys.css"
